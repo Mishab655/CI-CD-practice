@@ -1,0 +1,6 @@
+pandas
+scikit-learn
+joblib
+pytest
+evidently==0.4.25
+numpy<2
